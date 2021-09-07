@@ -1,4 +1,4 @@
-# Angular_workshop
+# Angular Advanced Workshop
 
 ## RxJS
 - [Slides](https://docs.google.com/presentation/d/1G4amCM1ot5MbIgKXknnRlA4B69rUd1qMcgNf-4-V610/edit?usp=sharing)
