@@ -3,6 +3,7 @@
 ## Rxjs
 
 - [Slides](https://docs.google.com/presentation/d/1G4amCM1ot5MbIgKXknnRlA4B69rUd1qMcgNf-4-V610/edit?usp=sharing)
+- [Demo Project](https://github.com/martinakraus/angular-rxjs-workshop)
 - [rxjs-playground](https://rxjs-playground.github.io/#/)
 - [learnrxjs.io](https://www.learnrxjs.io/operators/)
 - [Operator Decision Tree](https://rxjs-dev.firebaseapp.com/operator-decision-tree)
