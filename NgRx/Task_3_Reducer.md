@@ -4,7 +4,8 @@ __Introduce Reducer__
 
 - Create a new file `book/store/book-collection.slice.ts`.
 - Create and export the interface `BookCollectionSlice` specifying the shape of your state slice.
-- Create a new file `book/store/book-collection.reducer.ts`.
+- Create a new file `book/store/book-collection.reducer.ts`. 'ng generate reducer book-collection' 
+- Always use create function
 - Create a reducer function using _createReducer_.
 - Specify an initial state.
 - Handle the action `createBookStart`.
