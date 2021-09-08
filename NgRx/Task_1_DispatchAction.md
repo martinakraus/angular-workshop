@@ -1,7 +1,7 @@
 # Dispatch an Action
 
 - Create a new directory _book/store/_.
-- Create the file _store/book-collection.actions.ts_.
+- Create the file _store/book-collection.actions.ts_. `ng generate action book-collection`
 - Create the action `createBookStart` that requires the property _{ book: Book}_.
 - Make sure that the action is exported.
 - Open _book-new.component.ts_
