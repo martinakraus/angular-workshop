@@ -2,7 +2,7 @@
 
 - Open the file _book/store/book.feature.ts_
 - Create a feature selector using the constant specifying the feature name.
-- Create the file _'book/store/book-collection.selectors.ts'_.
+- Create the file _'book/store/book-collection.selectors.ts'_. `ng generate selector book-collection`
 - Import the feature selector from _book.feature.ts_
 - Create a selector providing the books of the store slice.
 - Open the file _book/book-list.component.ts_
