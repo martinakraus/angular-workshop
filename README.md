@@ -11,6 +11,7 @@
 ## NgRx
 
 - [Slides](https://docs.google.com/presentation/d/1P7uF7r_kbcryzyDMRUXMgqBmJZNTlo8em8t9tI28sq0/edit?usp=sharing)
+- [Demo Project](https://github.com/martinakraus/angular-ngrx-demo)
 - [NgRx Guide](https://ngrx.io/)
 - [Chrome Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/)
 
