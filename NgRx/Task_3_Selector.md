@@ -5,7 +5,7 @@
 - Create the file _'book/store/book-collection.selectors.ts'_. `ng generate selector book-collection`
 - Import the feature selector from _book.feature.ts_
 - Create a selector providing the books of the store slice.
-- Open the file _book/book-list.component.ts_
+- Open the file _book/book.component.ts_
 - Use the selector you have created instead of the inline projection function
 
 - Create a new book.
