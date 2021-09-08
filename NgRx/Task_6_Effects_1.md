@@ -8,7 +8,7 @@
 - Create the action `loadBookStart`, being used to send a GET-Request to the API.
 - Create the action `loadBookComplete`, being used to react to the response of the API.
 
-- Create the file _book/store/book-collection.effects.ts_
+- Create the file _book/store/book-collection.effects.ts_ `ng generate effect book-collection`
 - Implement the effect `load` that uses _BookApiService_ to load all books.
 - Return the action `loadBookComplete`, when the books have been loaded successfully.
 - Register _BookCollectionEffects_ in _book.module.ts_ by adding `EffectsModule.forFeature([BookCollectionEffects])`.
