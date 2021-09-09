@@ -6,8 +6,8 @@
 - You get the source code by running...
 
 ```
-git clone https://github.com/workshops-de/angular-advanced-workshop --branch baseline
-cd angular-advanced-workshop
+git clone https://github.com/martinakraus/angular-ngrx-demo
+cd angular-ngrx-demo
 npm i
 ```
 
