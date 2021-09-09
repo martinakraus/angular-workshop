@@ -1,5 +1,5 @@
 # Component Mock Dependency
-- Create _book-list.component.spec.ts_ next to book-list.component.ts, if the file not exists.
+- Open _book.component.spec.ts_ next to book.component.ts, if the file not exists.
 - Create a mock for `BookApiService` with Jasmine.
 - Configure the mock returning one Book when method `getAll` ist called.
 - Assert that one book is rendered in the template.
