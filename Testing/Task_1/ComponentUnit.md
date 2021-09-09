@@ -6,11 +6,13 @@
 ## Hints
 
 ```ts
-describe('<ws-book-card>', () => {
+import { BookCardComponent } from './book-card.component';
+
+describe('BookCardComponent', () => {
   describe('When no content is passed', () => {
     it('defaults to "n/a"', () => {
        // Write your test here, please
     });
   })
-})
+});
 ```
