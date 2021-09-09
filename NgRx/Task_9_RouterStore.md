@@ -14,20 +14,5 @@
 
 > _Notice that each component that is fully migrated has only one dependency, the Store._
 
-## Hints
-
-__Replace relative import paths with path-alias__
-
-- Create a barrel file (index.ts) inside _app/store/router_.
-- Make the barrel file export router-store-related files.
-- Open the root-_tsconfig.json_.
-- Add the path alias __@store/router__ that points to _./src/app/store/router/index_.
-- Update relevant import-paths.
-
-```json
-"paths": {
-  "@store/router": ["./src/app/store/router/index"]
-}
-```
 
 [Solution](https://stackblitz.com/github/workshops-de/angular-advanced-workshop/tree/solve--ngrx-use-router-store)
