@@ -2,6 +2,8 @@
 - Open _book.component.spec.ts_ next to book.component.ts, if the file not exists.
 - Create a mock for `BookApiService` with Jasmine.
 - Configure the mock returning one Book when method `getAll` ist called.
+- You need to import the `RouterTestingModule` in order to have the component created
+- You need to decklare all dependencies (ChildComponents and FilterPipes) inside you TestingModule
 - Assert that one book is rendered in the template.
 
 ## Hints
