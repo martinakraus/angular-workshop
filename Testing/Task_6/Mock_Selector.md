@@ -1,9 +1,9 @@
 # Test | Mock Selector
 
-- Open _book-list.component.spec.ts_.
-- Fix the failing test.
-- Replace the _BookApiService_-Mock with a Selector-Mock.
-
+- Open _book.component.spec.ts_.
+- Use `provideMockStore()` for `providers[]` inside out TestBed Module
+- Use the overriderSelector Function to mock the selector for `bookCollection`
+- 
 > _Ressource: [NgRx Testing](https://ngrx.io/guide/store/testing#using-mock-selectors)_
 
 ## Hints
