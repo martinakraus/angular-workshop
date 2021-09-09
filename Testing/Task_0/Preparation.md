@@ -6,8 +6,8 @@
 - You get the source code by running...
 
 ```
-git clone https://github.com/martinakraus/angular-ngrx-demo
-cd angular-ngrx-demo
+git clone https://github.com/Kraus-Consulting-IT/angular-test-demo
+cd angular-test-demo
 npm i
 ```
 
