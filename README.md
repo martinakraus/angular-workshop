@@ -17,6 +17,8 @@
 
 ## Angular Testing
 
+- [Slides](https://docs.google.com/presentation/d/1kGWAyAUOKrs-gBKYq4TC1lGvVnAsyBBEqXYjGf6H6Qg/edit?usp=sharing)
+- [Demo Project](https://github.com/Kraus-Consulting-IT/angular-test-demo)
 - [Cypress Best Practices](https://docs.cypress.io/guides/references/best-practices.html)
 - [Jasmine Documentation](https://jasmine.github.io/)
 - [Karma Test Runner](https://karma-runner.github.io/latest/index.html)
